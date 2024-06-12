@@ -36,7 +36,7 @@ def scrape(url):
     
     return pd.DataFrame(products_data)
 #Definimos url base para el; scraping
-base_url="https://webscraper.io/test-sites/e-commerce/allinone"
+base_url="https://webscraper.io/test-sites/e-commerce/allinone/phones/touch"
 
 #llamamos la funcion scrape para obtener datosd el producto
 
